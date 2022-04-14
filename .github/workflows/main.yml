@@ -36,4 +36,3 @@ jobs:
           echo test, and deploy your project.
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.14.1
-runs-on: self-hosted
